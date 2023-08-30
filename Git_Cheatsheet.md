@@ -1,5 +1,4 @@
-# git_test
-Cheatsheet
+# Git CheatSheet
     This is a reference list of the most commonly used Git commands. (You might consider bookmarking this handy page.) Try to familiarize yourself with the commands so that you can eventually remember them all:
 
 **The basic Git syntax is program | action | destination.**
